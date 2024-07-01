@@ -1,0 +1,41 @@
+﻿@model ExercicioTesteClientes.Models.TBClientes
+
+@{
+    ViewData["Title"] = "Exercicio Teste - Detalhe Cliente";
+}
+
+<div>
+    <h4>Detalhe Cliente</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt>
+            @Html.DisplayName("Tipo")
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Tipos.Tipo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Documento)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Documento)
+
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Telefone)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Telefone)
+        </dd>
+        
+    </dl>
+</div>
+<div>    
+    <a asp-action="Index">Voltar</a>
+</div>

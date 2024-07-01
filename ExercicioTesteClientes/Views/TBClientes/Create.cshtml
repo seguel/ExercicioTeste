@@ -1,0 +1,117 @@
+﻿@model ExercicioTesteClientes.Models.TBClientes
+
+@{
+    ViewData["Title"] = "Exercicio Teste - Novo Cliente";
+}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
+<script>
+    $(document).ready(function () {
+        var tipo = 1;
+        $("#cboTipo").change(function () {
+            tipo = $("#cboTipo").val();
+            $("#id_documento").val("");
+            if(tipo == 1){
+                $("#id_documento").attr({ placeholder: "000.000.000-00", maxlength: "14" });
+            }
+            else if (tipo == 2){
+                //$("#id_documento").mask("00.000.000/0000-00");
+                $("#id_documento").attr({ placeholder: "00.000.000/0000-00", maxlength: "18" });
+            }
+                
+            $('#cboId').val(tipo);
+        });
+
+        $("#id_documento").keydown(function () {
+            if (tipo == 1) {
+                mascara(this, cpf);
+            }
+            else if (tipo == 2) {
+                //$("#id_documento").mask("00.000.000/0000-00");
+                mascara(this, cnpj);
+            }
+
+            $('#hdnDocumento').val($("#id_documento").val());
+        });
+        
+    });
+
+    function mascara(o, f) {
+        v_obj = o
+        v_fun = f
+        setTimeout("execmascara()", 1)
+    }
+    function execmascara() {
+        v_obj.value = v_fun(v_obj.value)
+    }
+
+    function cpf(v) {
+        v = v.replace(/\D/g, "")                    //Remove tudo o que não é dígito
+        v = v.replace(/(\d{3})(\d)/, "$1.$2")       //Coloca um ponto entre o terceiro e o quarto dígitos
+        v = v.replace(/(\d{3})(\d)/, "$1.$2")       //Coloca um ponto entre o terceiro e o quarto dígitos
+        //de novo (para o segundo bloco de números)
+        v = v.replace(/(\d{3})(\d{1,2})$/, "$1-$2") //Coloca um hífen entre o terceiro e o quarto dígitos
+        return v
+    }
+
+    function cnpj(v) {
+        v = v.replace(/\D/g, "")
+
+        //Coloca ponto entre o segundo e o terceiro dígitos
+        v = v.replace(/^(\d{2})(\d)/, "$1.$2")
+
+        //Coloca ponto entre o quinto e o sexto dígitos
+        v = v.replace(/^(\d{2})\.(\d{3})(\d)/, "$1.$2.$3")
+
+        //Coloca uma barra entre o oitavo e o nono dígitos
+        v = v.replace(/\.(\d{3})(\d)/, ".$1/$2")
+
+        //Coloca um hífen depois do bloco de quatro dígitos
+        v = v.replace(/(\d{4})(\d)/, "$1-$2")
+        return v
+    }
+</script>
+
+<h4>Novo Cliente</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create" method="post">
+            <input type="hidden" id="cboId" name="cboId" value="1" />
+            <input type="hidden" id="hdnDocumento" name="hdnDocumento" value="1" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Nome" class="control-label"></label>
+                <input asp-for="Nome" class="form-control" />
+                <span asp-validation-for="Nome" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label" >Tipo</label>
+                @Html.DropDownList("Tipo", (IEnumerable<SelectListItem>)ViewBag.TipoID, new { @class = "form-control", @id = "cboTipo" })
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="Documento" class="control-label"></label>
+                @Html.EditorFor(model => model.Documento, new { htmlAttributes = new { @class = "form-control", placeholder = "000.000.000-00", @id = "id_documento",  @maxlength= "14" } })
+                <span asp-validation-for="Documento" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Telefone" class="control-label"></label>
+                <input asp-for="Telefone" class="form-control" />
+                <span asp-validation-for="Telefone" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Salvar" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Voltar</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

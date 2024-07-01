@@ -1,0 +1,3181 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ExercicioTesteClientes.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ExercicioTesteClientes.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\GOOG_stockprice.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\GOOG_stockprice.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\TSLA_stockprice.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\TSLA_stockprice.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\appointments.json",
+      "PackagePath": "staticwebassets\\js\\sampledata\\appointments.json"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\appointments.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\appointments.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\beverages.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\beverages.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\categories.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\categories.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\customers.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\customers.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\customers.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\customers.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\data.php",
+      "PackagePath": "staticwebassets\\js\\sampledata\\data.php"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\debt_top10_2010.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\debt_top10_2010.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\desktop_browsers_share_dec2011.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\desktop_browsers_share_dec2011.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\discoveries.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\discoveries.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\education_top10_2011.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\education_top10_2011.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\employees.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\employees.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\employeesadv.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\employeesadv.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\employeesadv.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\employeesadv.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\europe.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\europe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\feed.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\feed.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\gdp_dept_2010.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\gdp_dept_2010.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\gdp_top10_2010.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\gdp_top10_2010.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\generatedata.js",
+      "PackagePath": "staticwebassets\\js\\sampledata\\generatedata.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\generatedata.ts",
+      "PackagePath": "staticwebassets\\js\\sampledata\\generatedata.ts"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\homeprices.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\homeprices.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\icalendar.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\icalendar.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\lifeexpectancy_top10_2011.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\lifeexpectancy_top10_2011.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\locations.tsv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\locations.tsv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\mobile_browsers_share_dec2011.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\mobile_browsers_share_dec2011.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\nasdaq_vs_sp500.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\nasdaq_vs_sp500.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\nasdaq_vs_sp500_detailed.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\nasdaq_vs_sp500_detailed.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\nflx_vs_sp500.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\nflx_vs_sp500.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\oiluse_top10_2011.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\oiluse_top10_2011.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\orderdetails.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\orderdetails.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\orderdetailsextended.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\orderdetailsextended.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\orders.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\orders.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\orders.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\orders.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\products.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\products.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\rows_and_columns.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\rows_and_columns.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\us_gdp_2008-2013.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\us_gdp_2008-2013.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\us_homeownership_rate.csv",
+      "PackagePath": "staticwebassets\\js\\sampledata\\us_homeownership_rate.csv"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\weather.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\weather.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\weather_geneva.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\weather_geneva.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\website_analytics.txt",
+      "PackagePath": "staticwebassets\\js\\sampledata\\website_analytics.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\xmlattributes.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\xmlattributes.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\sampledata\\xmldata.xml",
+      "PackagePath": "staticwebassets\\js\\sampledata\\xmldata.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\angular-sanitize.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\angular-sanitize.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\angular-sanitize.min.js.map",
+      "PackagePath": "staticwebassets\\js\\scripts\\angular-sanitize.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\angular-ui-router.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\angular-ui-router.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\angular.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\angular.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\angular.min.js.map",
+      "PackagePath": "staticwebassets\\js\\scripts\\angular.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\data.xlsx",
+      "PackagePath": "staticwebassets\\js\\scripts\\data.xlsx"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\demos.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\demos.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\documentation.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\documentation.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\format.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\format.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\html2canvas.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\html2canvas.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\initdashboard.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\initdashboard.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\initdashboard.ts",
+      "PackagePath": "staticwebassets\\js\\scripts\\initdashboard.ts"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\jquery-1.11.1.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\jquery-1.11.1.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\jquery-1.11.1.min.map",
+      "PackagePath": "staticwebassets\\js\\scripts\\jquery-1.11.1.min.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\jquery-1.11.2.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\jquery-1.11.2.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\jquery.mobile-1.4.3.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\jquery.mobile-1.4.3.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\jquery.mobile-1.4.3.min.map",
+      "PackagePath": "staticwebassets\\js\\scripts\\jquery.mobile-1.4.3.min.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\jslocalization.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\jslocalization.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\jszip.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\knockout-2.2.1.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\knockout-2.2.1.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\knockout-3.0.0.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\knockout-3.0.0.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\knockout-mapping-2.0.0.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\knockout-mapping-2.0.0.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\localization.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\localization.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\localization.ts",
+      "PackagePath": "staticwebassets\\js\\scripts\\localization.ts"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\require.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\require.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\scripts\\webcomponents-lite.min.js",
+      "PackagePath": "staticwebassets\\js\\scripts\\webcomponents-lite.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery\\dist\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.cs-CZ.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.cs-CZ.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.de-DE.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.de-DE.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.en-CA.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.en-CA.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.en-US.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.en-US.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.fr-FR.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.fr-FR.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.he-IL.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.he-IL.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.hr-HR.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.hr-HR.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.hu-HU.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.hu-HU.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.it-IT.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.it-IT.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.ja-JP.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.ja-JP.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.lt.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.lt.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.ru-RU.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.ru-RU.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.culture.sa-IN.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.culture.sa-IN.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\globalization\\globalize.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\globalization\\globalize.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqx-all.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqx-all.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxangular.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxangular.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxbarcode.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxbarcode.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxbargauge.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxbargauge.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxbulletchart.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxbulletchart.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxbuttongroup.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxbuttongroup.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxbuttons.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxbuttons.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxcalendar.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxcalendar.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxchart.annotations.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxchart.annotations.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxchart.api.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxchart.api.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxchart.core.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxchart.core.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxchart.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxchart.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxchart.rangeselector.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxchart.rangeselector.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxchart.waterfall.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxchart.waterfall.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxcheckbox.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxcheckbox.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxcheckboxgroup.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxcheckboxgroup.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxcolorpicker.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxcolorpicker.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxcombobox.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxcombobox.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxcomplexinput.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxcomplexinput.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxcore.elements.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxcore.elements.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxcore.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxcore.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdata.export.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdata.export.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdata.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdata.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdatatable.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdatatable.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdate.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdate.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdatetimeinput.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdatetimeinput.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdocking.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdocking.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdockinglayout.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdockinglayout.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdockpanel.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdockpanel.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdragdrop.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdragdrop.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdraw.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdraw.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdropdownbutton.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdropdownbutton.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxdropdownlist.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxdropdownlist.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxeditor.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxeditor.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxexpander.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxexpander.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxexport.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxexport.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxfileupload.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxfileupload.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxform.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxform.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxformattedinput.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxformattedinput.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgantt.api.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgantt.api.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgantt.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgantt.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgauge.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgauge.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.aggregates.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.aggregates.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.chart.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.chart.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.columnsreorder.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.columnsreorder.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.columnsresize.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.columnsresize.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.edit.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.edit.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.export.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.export.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.filter.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.filter.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.grouping.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.grouping.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.pager.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.pager.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.selection.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.selection.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.sort.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.sort.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxgrid.storage.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxgrid.storage.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxheatmap.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxheatmap.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqximport.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqximport.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxinput.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxinput.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxkanban.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxkanban.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxknob.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxknob.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxknockout.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxknockout.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxlayout.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxlayout.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxlistbox.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxlistbox.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxlistmenu.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxlistmenu.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxloader.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxloader.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxmaskedinput.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxmaskedinput.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxmaterialcolorpicker.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxmaterialcolorpicker.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxmenu.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxmenu.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxnavbar.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxnavbar.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxnavigationbar.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxnavigationbar.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxnotification.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxnotification.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxnumberinput.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxnumberinput.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxpanel.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxpanel.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxpasswordinput.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxpasswordinput.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxpivot.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxpivot.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxpivotdesigner.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxpivotdesigner.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxpivotgrid.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxpivotgrid.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxpopover.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxpopover.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxprogressbar.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxprogressbar.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxqrcode.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxqrcode.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxradiobutton.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxradiobutton.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxradiobuttongroup.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxradiobuttongroup.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxrangeselector.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxrangeselector.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxrating.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxrating.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxresponse.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxresponse.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxresponsivepanel.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxresponsivepanel.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxribbon.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxribbon.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxrichtextarea.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxrichtextarea.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxscheduler.api.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxscheduler.api.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxscheduler.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxscheduler.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxscrollbar.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxscrollbar.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxscrollview.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxscrollview.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxslider.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxslider.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxsortable.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxsortable.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxsplitlayout.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxsplitlayout.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxsplitter.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxsplitter.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxswitchbutton.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxswitchbutton.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtabs.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtabs.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtagcloud.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtagcloud.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtextarea.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtextarea.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtimeline.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtimeline.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtimepicker.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtimepicker.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtoolbar.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtoolbar.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtooltip.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtooltip.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtouch.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtouch.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtree.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtree.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtreegrid.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtreegrid.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxtreemap.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxtreemap.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxvalidator.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxvalidator.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\jqxwindow.js",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\jqxwindow.js"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\products.xml",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\products.xml"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\jqx-icons.eot",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\jqx-icons.eot"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\jqx-icons.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\jqx-icons.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\jqx-icons.ttf",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\jqx-icons.ttf"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\jqx-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\jqx-icons.woff"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\jqx-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\jqx-icons.woff2"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\add-filter.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\add-filter.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\align-center.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\align-center.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\align-justify.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\align-justify.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\align-left.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\align-left.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\align-right.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\align-right.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\arrow-bottom.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\arrow-bottom.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\arrow-down-long.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\arrow-down-long.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\arrow-up-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\arrow-up-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\arrow-up-long.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\arrow-up-long.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\attention-circled.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\attention-circled.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\attention.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\attention.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\block.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\block.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\calendar-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\calendar-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\calendar.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\cancel-circled.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\cancel-circled.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\cancel.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\cancel.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\chart.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\chart.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\check-alt-2.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\check-alt-2.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\check-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\check-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\check-empty.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\check-empty.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\check.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\check.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\check1.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\check1.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\circle-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\circle-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\circle-empty.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\circle-empty.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\circle.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\circle.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\clock.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\clock.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\close-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\close-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\close.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\close.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\contains.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\contains.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\copy-record.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\copy-record.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\delete.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\delete.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\docs.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\docs.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\does_not_contain.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\does_not_contain.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\dot-circled.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\dot-circled.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\down-dir.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\down-dir.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\download-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\download-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\duplicate.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\duplicate.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\edit.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\edit.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\ellipsis.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\ellipsis.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\ends_with.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\ends_with.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\equals.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\equals.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\filter-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\filter-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\filter.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\filter.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\first_page.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\first_page.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\font.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\font.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\greater-than-equal.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\greater-than-equal.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\greater-than.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\greater-than.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\grip-vertical.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\grip-vertical.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\hamburger.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\hamburger.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\help-circled.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\help-circled.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\info.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\info.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\keyboard_arrow_down.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\keyboard_arrow_down.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\keyboard_arrow_left.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\keyboard_arrow_left.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\keyboard_arrow_right.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\keyboard_arrow_right.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\keyboard_arrow_up.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\keyboard_arrow_up.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\last_page.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\last_page.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\left-dir.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\left-dir.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\less-than-equal.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\less-than-equal.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\less-than.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\less-than.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\link-ext.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\link-ext.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\lock-open.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\lock-open.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\lock.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\lock.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\mail.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\mail.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\math.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\math.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\menu.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\menu.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\middle.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\middle.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\minus-circled.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\minus-circled.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\minus-squared.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\minus-squared.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\minus.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\minus.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\mode_edit.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\mode_edit.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\more_horiz.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\more_horiz.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\not-equal.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\not-equal.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\object-group.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\object-group.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\object-ungroup.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\object-ungroup.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\ok-squared.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\ok-squared.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\paste.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\paste.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\pencil.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\pencil.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\percentage.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\percentage.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\pin-outline.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\pin-outline.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\pin.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\pin.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\plus-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\plus-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\plus-circled.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\plus-circled.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\plus.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\plus.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\popup.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\popup.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\power.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\power.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\radio.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\radio.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\refresh.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\refresh.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\reload.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\reload.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\replay.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\replay.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\resize-full-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\resize-full-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\resize-full.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\resize-full.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\resize-horizontal.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\resize-horizontal.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\resize-small.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\resize-small.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\resize-vertical.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\resize-vertical.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\right-dir.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\right-dir.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\search.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\search.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\settings.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\settings.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\skip_next.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\skip_next.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-1.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-1.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-alt-down.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-alt-down.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-alt-up.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-alt-up.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-asc-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-asc-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-asc.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-asc.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-desc-alt.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-desc-alt.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-desc.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-desc.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-name-down.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-name-down.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-name-up.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-name-up.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-number-down.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-number-down.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort-number-up.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort-number-up.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\sort.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\sort.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\spin3.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\spin3.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\star-empty.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\star-empty.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\star.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\star.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\starts_with.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\starts_with.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\table.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\table.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\toggle-off.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\toggle-off.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\toggle-on.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\toggle-on.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\up-dir.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\up-dir.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\up.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\up.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\user.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\user.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\visibility.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\visibility.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\visibility_off.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\visibility_off.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\window-maximize.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\window-maximize.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\window-minimize.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\window-minimize.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\font\\svg\\window-restore.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\font\\svg\\window-restore.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.eot",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.eot"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.svg",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.svg"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.ttf",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.ttf"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.woff"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\gantt\\font\\jqx-icons.woff2"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\gantt\\jqx.gantt.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\gantt\\jqx.gantt.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\backImage.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\backImage.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\backgroundTop.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\backgroundTop.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_black.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_black.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_black_horizontal.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_black_horizontal.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_blackhover.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_blackhover.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_blackhover_horizontal.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_blackhover_horizontal.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_blackpressed.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_blackpressed.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_blackpressed_horizontal.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_blackpressed_horizontal.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_blueenergy.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_blueenergy.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_darkblue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_darkblue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_darkbluehover.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_darkbluehover.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\bg_darkbluepressed.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\bg_darkbluepressed.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\black_gradient.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\black_gradient.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\blackbackground.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\blackbackground.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_black.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_black.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_blue_indeterminate.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_blue_indeterminate.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_disabled.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_indeterminate_black.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_indeterminate_black.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_indeterminate_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_indeterminate_disabled.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_indeterminate_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_indeterminate_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_lightblue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_lightblue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_lightblue_indeterminate.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_lightblue_indeterminate.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\check_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\check_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\close_black.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\close_black.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\close_blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\close_blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\close_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\close_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\colorpicker\\ReadMe.txt",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\colorpicker\\ReadMe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\colorpicker\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\colorpicker\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\colorpicker\\bar-hue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\colorpicker\\bar-hue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\colorpicker\\bar-saturation.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\colorpicker\\bar-saturation.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\colorpicker\\map-hue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\colorpicker\\map-hue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\colorpicker\\map-saturation-overlay.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\colorpicker\\map-saturation-overlay.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\colorpicker\\map-saturation.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\colorpicker\\map-saturation.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\common.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\common.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-area-dark.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-area-dark.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-area.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-area.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-bar-dark.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-bar-dark.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-bar.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-bar.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-column-dark.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-column-dark.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-column.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-column.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-line-dark.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-line-dark.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-line.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-line.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-pie-dark.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-pie-dark.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-pie.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-pie.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-scatter-dark.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-scatter-dark.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\create-scatter.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\create-scatter.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\crosshair-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\crosshair-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\crosshair.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\crosshair.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ReadMe.txt",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ReadMe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_flat_30_cccccc_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_flat_30_cccccc_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_flat_50_5c5c5c_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_flat_50_5c5c5c_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_glass_20_555555_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_glass_20_555555_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_glass_40_0078a3_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_glass_40_0078a3_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_glass_40_ffc73d_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_glass_40_ffc73d_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_gloss-wave_25_333333_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_gloss-wave_25_333333_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_highlight-soft_80_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_highlight-soft_80_eeeeee_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_inset-soft_25_000000_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_inset-soft_25_000000_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_inset-soft_30_f58400_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-bg_inset-soft_30_f58400_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_4b8e0b_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_4b8e0b_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_a83300_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_a83300_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_cccccc_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_cccccc_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkness\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\darkred_gradient.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\darkred_gradient.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\drag.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\drag.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\dragcancel.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\dragcancel.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\error.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\error.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\filter.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\filter.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\html_editor.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\html_editor.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\html_editor_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\html_editor_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-calendar-light.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-calendar-light.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-calendar-metro-light.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-calendar-metro-light.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-calendar-metro-yellow-light.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-calendar-metro-yellow-light.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-calendar-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-calendar-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-calendar.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-calendar.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-cancel-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-cancel-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-cancel.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-cancel.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-delete-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-delete-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-delete.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-delete.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-down-blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-down-blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-down-transparent.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-down-transparent.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-down-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-down-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-down.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-down.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-edit-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-edit-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-edit.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-edit.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-first-blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-first-blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-first-transparent.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-first-transparent.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-first-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-first-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-first.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-first.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-info-small.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-info-small.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-last-blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-last-blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-last-transparent.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-last-transparent.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-last-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-last-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-last.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-last.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-left-blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-left-blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-left-transparent.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-left-transparent.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-left-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-left-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-left.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-left.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-menu-minimized-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-menu-minimized-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-menu-minimized.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-menu-minimized.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-menu-small-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-menu-small-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-menu-small.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-menu-small.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-plus-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-plus-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-plus.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-plus.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-recurrence-exception-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-recurrence-exception-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-recurrence-exception.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-recurrence-exception.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-recurrence-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-recurrence-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-recurrence.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-recurrence.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-right-blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-right-blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-right-transparent.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-right-transparent.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-right-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-right-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-right.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-right.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-save-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-save-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-save.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-save.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-showpassword-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-showpassword-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-showpassword.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-showpassword.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-sort-asc-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-sort-asc-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-sort-asc.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-sort-asc.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-sort-desc-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-sort-desc-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-sort-desc.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-sort-desc.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-sort-remove-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-sort-remove-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-sort-remove.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-sort-remove.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-time-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-time-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-time.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-time.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-up-blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-up-blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-up-transparent.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-up-transparent.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-up-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-up-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon-up.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon-up.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon_collapse.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon_collapse.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\icon_expand.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\icon_expand.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\info.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\info.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ReadMe.txt",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ReadMe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_diagonals-small_0_aaaaaa_40x40.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_diagonals-small_0_aaaaaa_40x40.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_diagonals-thick_15_444444_40x40.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_diagonals-thick_15_444444_40x40.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_diagonals-thick_95_ffdc2e_40x40.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_diagonals-thick_95_ffdc2e_40x40.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_glass_55_fbf5d0_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_glass_55_fbf5d0_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_highlight-hard_30_285c00_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_highlight-hard_30_285c00_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_highlight-soft_33_3a8104_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_highlight-soft_33_3a8104_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_highlight-soft_50_4eb305_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_highlight-soft_50_4eb305_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_highlight-soft_60_4ca20b_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_highlight-soft_60_4ca20b_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_inset-soft_10_285c00_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-bg_inset-soft_10_285c00_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-icons_4eb305_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-icons_4eb305_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-icons_72b42d_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-icons_72b42d_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\le-frog\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ReadMe.txt",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ReadMe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\icon-first.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\icon-first.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\icon-last.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\icon-last.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_diagonals-thick_18_b81900_40x40.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_diagonals-thick_18_b81900_40x40.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_diagonals-thick_20_666666_40x40.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_diagonals-thick_20_666666_40x40.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_flat_10_000000_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_flat_10_000000_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_glass_100_f6f6f6_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_glass_100_f6f6f6_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_glass_100_fdf5ce_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_glass_100_fdf5ce_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_gloss-wave_35_f6a828_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_gloss-wave_35_f6a828_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_highlight-soft_100_eeeeee_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_highlight-soft_100_eeeeee_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_highlight-soft_75_ffe45c_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-bg_highlight-soft_75_ffe45c_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_228ef1_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_228ef1_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_ef8c08_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_ef8c08_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_ffd27a_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_ffd27a_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\lightness\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\loader-small.gif",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\loader-small.gif"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\loader.gif"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\mail.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-down-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-down-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-down.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-down.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-first-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-first-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-first.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-first.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-last-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-last-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-last.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-last.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-left-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-left-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-left.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-left.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-right-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-right-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-right.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-right.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-up-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-up-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material-icon-up.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material-icon-up.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material_check_black.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material_check_black.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\material_check_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\material_check_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\menubutton.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\menubutton.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-down-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-down-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-down.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-down.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-first-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-first-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-first.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-first.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-last-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-last-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-last.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-last.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-left-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-left-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-left.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-left.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-right - Copy.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-right - Copy.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-right-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-right-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-right.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-right.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-up-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-up-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\metro-icon-up.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\metro-icon-up.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\multi-arrow.gif",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\multi-arrow.gif"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\office-icon-down.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\office-icon-down.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\office-icon-first.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\office-icon-first.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\office-icon-last.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\office-icon-last.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\office-icon-left.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\office-icon-left.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\office-icon-right.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\office-icon-right.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\office-icon-up.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\office-icon-up.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ReadMe.txt",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ReadMe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_flat_0_eeeeee_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_flat_0_eeeeee_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_flat_55_c0402a_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_flat_55_c0402a_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_flat_55_eeeeee_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_flat_55_eeeeee_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_glass_100_f8f8f8_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_glass_100_f8f8f8_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_glass_35_dddddd_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_glass_35_dddddd_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_glass_60_eeeeee_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_glass_60_eeeeee_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_inset-hard_75_999999_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_inset-hard_75_999999_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_inset-soft_50_c9c9c9_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-bg_inset-soft_50_c9c9c9_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_3383bb_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_3383bb_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_70b2e1_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_70b2e1_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_999999_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_999999_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_fbc856_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\overcast\\ui-icons_fbc856_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pin-black.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pin-black.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pin-blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pin-blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pin-lightblue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pin-lightblue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pin-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pin-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pin-yellow.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pin-yellow.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pin.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pin.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pinned-black.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pinned-black.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pinned-blue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pinned-blue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pinned-lightblue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pinned-lightblue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pinned-white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pinned-white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pinned-yellow.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pinned-yellow.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pinned.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pinned.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\plus.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\plus.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\plus_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\plus_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\pointer.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\pointer.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\rangebar_classic.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\rangebar_classic.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\rangebar_darkblue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\rangebar_darkblue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\rangebar_shinyblack.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\rangebar_shinyblack.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\rangebar_summer.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\rangebar_summer.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\red_arrow_down.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\red_arrow_down.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\red_arrow_up.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\red_arrow_up.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\red_gradient.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\red_gradient.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ReadMe.txt",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ReadMe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\icon-first.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\icon-first.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\icon-last.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\icon-last.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_flat_55_fbec88_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_flat_55_fbec88_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\redmond\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\roundbg_check_black.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\roundbg_check_black.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\roundbg_check_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\roundbg_check_disabled.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\roundbg_check_indeterminate.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\roundbg_check_indeterminate.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\roundbg_check_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\roundbg_check_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\roundbg_classic_hover.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\roundbg_classic_hover.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\roundbg_classic_normal.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\roundbg_classic_normal.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\roundbg_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\roundbg_disabled.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\search.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\search.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\search_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\search_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ReadMe.txt",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ReadMe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_flat_0_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_flat_0_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_flat_75_ffffff_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_flat_75_ffffff_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_55_fbf9ee_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_55_fbf9ee_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_65_ffffff_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_65_ffffff_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_75_dadada_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_75_dadada_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_75_e6e6e6_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_75_e6e6e6_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_highlight-soft_75_cccccc_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-bg_highlight-soft_75_cccccc_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_222222_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_222222_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_454545_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_454545_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_888888_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_888888_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\smoothness\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sortasc.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sortasc.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sortascbutton.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sortascbutton.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sortdesc.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sortdesc.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sortdescbutton.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sortdescbutton.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sortremove.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sortremove.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\star.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\star.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\star_disabled.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\star_disabled.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\star_hover.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\star_hover.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ReadMe.txt",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ReadMe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_flat_55_999999_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_flat_55_999999_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_flat_75_aaaaaa_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_flat_75_aaaaaa_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_glass_45_0078ae_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_glass_45_0078ae_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_glass_55_f8da4e_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_glass_55_f8da4e_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_glass_75_79c9ec_1x400.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_glass_75_79c9ec_1x400.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_gloss-wave_45_e14f1c_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_gloss-wave_45_e14f1c_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_gloss-wave_50_6eac2c_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_gloss-wave_50_6eac2c_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_gloss-wave_75_2191c0_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_gloss-wave_75_2191c0_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_0078ae_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_0078ae_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_056b93_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_056b93_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_e0fdff_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_e0fdff_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_f5e175_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_f5e175_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_f7a50d_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_f7a50d_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_fcd113_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\start\\ui-icons_fcd113_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\stripes.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\stripes.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\success.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\success.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ReadMe.txt",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ReadMe.txt"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\Thumbs.db",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_diagonals-medium_20_d34d17_40x40.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_diagonals-medium_20_d34d17_40x40.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_flat_30_cccccc_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_flat_30_cccccc_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_flat_50_5c5c5c_40x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_flat_50_5c5c5c_40x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_gloss-wave_45_817865_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_gloss-wave_45_817865_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_gloss-wave_60_fece2f_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_gloss-wave_60_fece2f_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_gloss-wave_70_ffdd57_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_gloss-wave_70_ffdd57_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_gloss-wave_90_fff9e5_500x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_gloss-wave_90_fff9e5_500x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_highlight-soft_100_feeebd_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_highlight-soft_100_feeebd_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_inset-soft_30_ffffff_1x100.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-bg_inset-soft_30_ffffff_1x100.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_3d3d3d_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_3d3d3d_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_bd7b00_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_bd7b00_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_d19405_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_d19405_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_eb990f_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_eb990f_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_ed9f26_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_ed9f26_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_fadc7a_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_fadc7a_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_ffe180_256x240.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\sunny\\ui-icons_ffe180_256x240.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\tick.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\tick.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\time.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\time.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\track_classic.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\track_classic.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\track_darkblue.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\track_darkblue.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\track_shinyblack.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\track_shinyblack.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\track_summer.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\track_summer.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\warning.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\warning.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\wp_check_indeterminate_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\wp_check_indeterminate_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\images\\wp_check_white.png",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\images\\wp_check_white.png"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.android.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.android.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.arctic.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.arctic.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.base.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.base.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.black.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.black.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.blackberry.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.blackberry.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.blue.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.blue.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.classic.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.classic.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.dark-ie.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.dark-ie.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.dark.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.dark.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.darkblue.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.darkblue.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.energyblue.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.energyblue.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.flat.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.flat.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.fluent.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.fluent.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.fluent.css.map",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.fluent.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.fluent.scss",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.fluent.scss"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.fluent_old.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.fluent_old.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.fluent_old.css.map",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.fluent_old.css.map"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.fluent_old.scss",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.fluent_old.scss"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.fresh.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.fresh.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.glacier.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.glacier.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.highcontrast.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.highcontrast.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.light-ie.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.light-ie.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.light.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.light.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.material-green.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.material-green.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.material-purple.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.material-purple.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.material.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.material.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.metro.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.metro.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.metrodark.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.metrodark.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.mobile.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.mobile.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.office.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.office.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.orange.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.orange.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.shinyblack.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.shinyblack.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.summer.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.summer.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.ui-darkness.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.ui-darkness.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.ui-le-frog.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.ui-le-frog.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.ui-lightness.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.ui-lightness.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.ui-overcast.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.ui-overcast.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.ui-redmond.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.ui-redmond.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.ui-smoothness.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.ui-smoothness.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.ui-start.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.ui-start.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.ui-sunny.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.ui-sunny.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.web.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.web.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\jqx.windowsphone.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\jqx.windowsphone.css"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\scss\\jqx.fluent.scss",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\scss\\jqx.fluent.scss"
+    },
+    {
+      "Id": "C:\\Projetos\\Teste\\ExercicioTesteClientes\\ExercicioTesteClientes\\wwwroot\\lib\\jqwidgets\\styles\\theme.css",
+      "PackagePath": "staticwebassets\\lib\\jqwidgets\\styles\\theme.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ExercicioTesteClientes.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ExercicioTesteClientes.props",
+      "PackagePath": "build\\ExercicioTesteClientes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ExercicioTesteClientes.props",
+      "PackagePath": "buildMultiTargeting\\ExercicioTesteClientes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ExercicioTesteClientes.props",
+      "PackagePath": "buildTransitive\\ExercicioTesteClientes.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
